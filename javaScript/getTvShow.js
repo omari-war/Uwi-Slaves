@@ -4,7 +4,7 @@ function displayTvShowTitleData(records) {
     for (let rec of records) {
         let itemImg = ""
         if (rec.primaryImage == null) {
-            itemImg = "/images/venue-card-placeholder.png"
+            itemImg = "images/venue-card-placeholder.png"
         }
         else {
             baseitemImg = rec.primaryImage.url;
