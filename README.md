@@ -5,7 +5,10 @@ This project is deployed at https://omari-war.github.io/Uwi-Slaves/#
 
 ## Explanation Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tKjZY_fCWUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="video/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Credits
 Contributors to UWI Slaves project:
