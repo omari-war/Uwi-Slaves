@@ -1,4 +1,4 @@
-LazyLoad library license
+# LazyLoad library license
 
 Copyright (c) 2018-2019 Andrea Verlicchi
 
