@@ -10,7 +10,7 @@ This project is deployed at https://omari-war.github.io/Uwi-Slaves/#
   Your browser does not support the video tag.
 </video>
 
-https://www.youtube.com/watch?v=tKjZY_fCWUw
+[Youtube Video](https://youtu.be/ooLerQCh3N0)
 
 ## Credits
 Contributors to UWI Slaves project:
