@@ -5,9 +5,9 @@ This project is deployed at https://omari-war.github.io/Uwi-Slaves/#
 
 ## Explanation Video
 
-[![Alt text](https://img.youtube.com/vi/ooLerQCh3N0/0.jpg)](https://www.youtube.com/watch?v=ooLerQCh3N0)
+[![Alt text](https://img.youtube.com/vi/G5r4vTWa1uk/0.jpg)](https://www.youtube.com/watch?v=G5r4vTWa1uk)
 
-[Youtube Video](https://youtu.be/ooLerQCh3N0)
+[Youtube Video](https://www.youtube.com/watch?v=G5r4vTWa1uk)
 
 ## Credits
 Contributors to UWI Slaves project:
