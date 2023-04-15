@@ -5,10 +5,7 @@ This project is deployed at https://omari-war.github.io/Uwi-Slaves/#
 
 ## Explanation Video
 
-<video width="560" height="315" controls>
-  <source src="video/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Alt text](https://img.youtube.com/vi/ooLerQCh3N0/0.jpg)](https://www.youtube.com/watch?v=ooLerQCh3N0)
 
 [Youtube Video](https://youtu.be/ooLerQCh3N0)
 
